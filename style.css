@@ -1,0 +1,18 @@
+body { 
+	font: 100% century gothic, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	 
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h3 { 
+	font: bold 1.4em , sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 5; 
+	color: #7D775C;
+	}
